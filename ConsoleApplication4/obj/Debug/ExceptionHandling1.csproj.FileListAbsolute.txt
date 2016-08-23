@@ -1,0 +1,6 @@
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ExceptionHandling1.csprojResolveAssemblyReference.cache
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\volha_shyrko\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
